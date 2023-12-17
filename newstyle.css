@@ -1,0 +1,16 @@
+#celebration {
+  background-color: #0000FF;
+  /* 蓝调颜色 */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fireworks {
+  /* 这里可以添加烟花效果的样式 */
+}
+
+.character {
+  font-size: 50px;
+}
